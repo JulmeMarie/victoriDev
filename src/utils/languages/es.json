@@ -1,0 +1,60 @@
+{
+    "translations": {
+        "headerTitle": "{{appName}} es una applicacion para los ninos del ano {{year}}",
+        "lang": {
+            "en": "Englés",
+            "fr": "Francés",
+            "ht": "Criollo Hatiano",
+            "es": "Espanol"
+        },
+        "menu": {
+            "home": "bienvenida",
+            "events": "eventos",
+            "babycare": "cuidado bébé"
+        },
+        "login": {
+            "yourAccount": "Su cuenta",
+            "babySitter": "Niñero/a",
+            "email": "E-mail",
+            "password": "Contraseña",
+            "typeLastname": "Escribe tu apellido",
+            "typePassword": "Escribe tu contraseña",
+            "passwordForgotten": "Contraseña olvidada",
+            "connect": "Conectarse",
+            "yourLastname": "Tu apellido",
+            "associatedLastname": "Apellido asociado a la cuenta",
+            "accessCode": "Código de acceso",
+            "typeAssociatedLastname": "Escribe el apellido asociado a la cuenta",
+            "typeAccessCode": "Escribe el codigo de acceso",
+            "typeEmail": "Escribe tu correo electrónico",
+            "send": "Enviar",
+            "authentication": "autenticación"
+        },
+        "signin": {
+            "register": "Inscripción",
+            "email": "Email",
+            "password1": " Contraseña",
+            "password2": "Contraseña",
+            "typeEmail": "Escribe tu correo electrónico",
+            "typePassword1": "Crea tu contraseña",
+            "checkPassword2": "Confirmar la contraseña",
+            "validate": "Inscribirse"
+        },
+        "contact": {
+            "joining": "Contáctenos",
+            "email": "E-mail",
+            "name": "Apellido",
+            "typeEmail": "Introduce tu dirección de correo electrónico",
+            "yourName": "Introduzca su nombre",
+            "subject": "Elige el asunto de tu mensaje",
+            "inputSelect1": "Problema con mi cuenta",
+            "inputSelect2": "Pregunta sobre mi cuenta",
+            "inputSelect3": "Fallo de conexión",
+            "inputSelect4": "A suggestion or comment?",
+            "inputSelect5": "Otros",
+            "message": "Ingrese su mensaje",
+            "messageFields": "Hola, me comunico contigo porque....",
+            "send": "Enviar mi mensaje"
+        }
+    }
+}
